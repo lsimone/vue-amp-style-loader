@@ -5,7 +5,7 @@
   "description": "Vue.js style loader module for webpack",
   "repository": {
     "type": "git",
-    "url": "git@github.com:vuejs/vue-style-loader.git"
+    "url": "git@github.com:lsimone/vue-style-loader.git"
   },
   "scripts": {
     "test": "jest"
